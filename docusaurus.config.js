@@ -14,7 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ezsyfi', // Usually your GitHub org/user name.
-  projectName: 'ezsywallet-core', // Usually your repo name.
+  projectName: 'ezsyfi.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
